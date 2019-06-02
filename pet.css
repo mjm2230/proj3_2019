@@ -1,0 +1,10 @@
+.wrapper {
+  width: 800px;
+  max-width: 90%;
+  margin: auto;
+}
+
+img {
+  height: 40%;
+  width: 40%;
+}
