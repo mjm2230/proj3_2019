@@ -15,7 +15,7 @@ let playCount = 0
 
 
 
-const cat = prompt("Please enter your name", "the cat");
+const cat = prompt("Please name your fat cat", "the cat");
 
 petButton.addEventListener('click', (e) =>{
   // Increment the count by 1
